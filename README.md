@@ -75,7 +75,7 @@ It is designed to help businesses **optimize inventory, reduce costs, and improv
 
 Inventory & Supply Chain Management Analysis Dashboard
 
-<img width="1184" height="666" alt="Screenshot 2025-12-26 113506" src="https://github.com/user-attachments/assets/c91b7e5c-fbac-449b-9812-b8ae48783500" />
+<img width="1072" height="601" alt="Screenshot 2026-06-16 104834" src="https://github.com/user-attachments/assets/83f01bbd-4e81-4265-9341-10e127e3a086" />
 
 
 ---
